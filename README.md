@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/bg-git-fin.png"/>
+  <img src="./assets/final.png"/>
 </p>
 
 <p align="center">
